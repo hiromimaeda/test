@@ -1,4 +1,4 @@
-Testです。
+Testです。 TestBより。
 
 こんにちわ。
 
